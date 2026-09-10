@@ -2,7 +2,7 @@
 
 This repository contains a generic proof-of-concept Dify plugin for chunking mixed financial Markdown documents, including narrative text, lists, and tables.
 
-This is a personal technical prototype. It is not an official AIA/友邦 product, is not affiliated with or endorsed by AIA/友邦, and contains no real company documents, customer data, credentials, or confidential business information.
+This is a personal technical prototype. 
 
 ## Download
 
